@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Uploads & Outputs
+uploads/*
+output/*
+!uploads/.gitkeep
+!output/.gitkeep
+
+# Logs
+*.log
